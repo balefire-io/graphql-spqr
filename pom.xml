@@ -4,7 +4,7 @@
     <groupId>io.leangen.graphql</groupId>
     <artifactId>spqr</artifactId>
     <packaging>jar</packaging>
-    <version>0.10.2-SNAPSHOT</version>
+    <version>0.10.3</version>
 
     <inceptionYear>2016</inceptionYear>
     <name>GraphQL SPQR</name>
@@ -25,10 +25,11 @@
         <tag>HEAD</tag>
     </scm>
     <distributionManagement>
-        <repository>
-            <id>bintray-leangen</id>
-            <url>https://api.bintray.com/maven/leangen/maven/spqr/</url>
-        </repository>
+       <repository>
+         <id>github</id>
+         <name>GitHub OWNER Apache Maven Packages</name>
+         <url>https://maven.pkg.github.com/balefire-io/graphql-spqr</url>
+       </repository>
     </distributionManagement>
     <issueManagement>
         <system>GitHub Issue Tracking</system>
