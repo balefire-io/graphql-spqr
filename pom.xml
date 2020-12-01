@@ -28,7 +28,7 @@
        <repository>
          <id>github</id>
          <name>GitHub OWNER Apache Maven Packages</name>
-         <url>https://maven.pkg.github.com/balefire-io/graphql-spqr</url>
+         <url>https://maven.pkg.github.com/waitify-io/graphql-spqr</url>
        </repository>
     </distributionManagement>
     <issueManagement>
